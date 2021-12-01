@@ -53,12 +53,22 @@ mark-compact算法执行过程
 ![img.png](../../../../../resources/mark-compact算法执行过程.png)  
 ![img.png](../../../../../resources/mark-compact算法2.png)  
 
-mark-compact算法优缺点
+mark-compact算法优缺点  
 ![img.png](../../../../../resources/mark-compact算法优缺点.png)  
 
 三种算法小结  
 ![img.png](../../../../../resources/三种算法小结.png)  
 
+分带收集算法(并不是一种算法，而是在不同场景分别采用上述三种算法)  
+![img.png](../../../../../resources/分带收集算法.png)  
+![img.png](../../../../../resources/分代收集算法.png)  
 
+CMS概述  
+![img.png](../../../../../resources/CMS概述.png)  
 
+增量收集算法  
+![img.png](../../../../../resources/增量收集算法.png)  
+![img.png](../../../../../resources/增量收集算法缺点.png)  
 
+分区算法  
+![img.png](../../../../../resources/分区算法.png)
