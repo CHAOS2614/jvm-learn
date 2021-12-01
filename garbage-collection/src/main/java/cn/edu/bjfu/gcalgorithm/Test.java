@@ -1,4 +1,4 @@
-package cn.edu.bjfu.garbagecollector;
+package cn.edu.bjfu.gcalgorithm;
 
 /**
  * @author chaos
